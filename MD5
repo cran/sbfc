@@ -1,10 +1,10 @@
-868c9de074825aefcecec63060ae1d50 *DESCRIPTION
+adc6b0fe972078658491e2f5dbbec151 *DESCRIPTION
 bb7ae35d488408028a6b11d44bb8a8fd *NAMESPACE
 985571109655e3a4b5e91b406afe5530 *R/RcppExports.R
 afec0d7e9a53cbabca0a2d47dbd1fcf4 *R/datasets.R
 42f4dd40e75dc2c6263fc132bd7e9f33 *R/datasets_anon.R
 ebe2cdbe42f555f3e183ada1e2447b5d *R/sbfc.R
-b238667dc349b8a1ecc57c89a5c452d9 *build/partial.rdb
+a20ca65779e6fe303409050fa0bd3c9e *build/partial.rdb
 83add46373cb5ba45fed72a9b7c13308 *data/corral_augmented.rda
 882de682dc3ad691a3e1f6e51fd19eb3 *data/heart.rda
 ea9a3e9e02f58a5e55714dac09414649 *data/madelon.rda
@@ -20,4 +20,4 @@ a9921f3147d07cf99eb5b425080c30c8 *man/sbfc_graph.Rd
 a9b5a639990017a813272d55fb3dd65e *man/signal_size_plot.Rd
 09c887d8c6c3db9ec23d353351d52cd8 *man/signal_var_proportion.Rd
 271145fa576acbb0c592f1b94f638eb2 *src/RcppExports.cpp
-c6f6fa363b50eccfaed4149f2cfc84db *src/sbfc.cpp
+65894e9170f88a306c1e01087ac441bf *src/sbfc.cpp
